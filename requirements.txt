@@ -1,0 +1,9 @@
+streamlit~=1.38.0
+google-generativeai
+python-dotenv~=1.0.1
+langchain~=0.3.1
+PyPDF2~=3.0.1
+faiss-cpu
+langchain_google_genai
+protobuf~=4.25.5
+langchain-google-genai~=2.0.0
